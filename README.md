@@ -1,29 +1,19 @@
-# This is a large heading
+# Dhruman Goradia, PhD
 
-## This is a smaller heading
+## Profession
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen, 
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+*Bioinformatics Scientist,*
+Banner Alzheimer's Institute,
+901 E Willetta St
+Phoenix AZ 85006
 
-- This is
-- an unordered
-- list
+## Education
 
-1. This is
-2. an ordered
-3. list
+- Wayne State University, School of Medicine, Detroit, MI
+  **PhD in Translational Neuroscience Progarm**
+	
+- Wright State University, Dayton, OH
+  **MS in Biomedical Engineering**
 
-
-Here is `some code` in the middle of a sentence.
-
-
-```
-
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
+- University of Mumbai, Mumbai, India
+  **BE in Instrumentation Engineering**
