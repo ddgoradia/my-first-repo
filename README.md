@@ -2,7 +2,7 @@
 
 ## Profession
 
-*Bioinformatics Scientist,*\n
+*Bioinformatics Scientist,*
 Banner Alzheimer's Institute,
 901 E Willetta St
 Phoenix AZ 85006
