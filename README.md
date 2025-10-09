@@ -6,6 +6,7 @@
 Banner Alzheimer's Institute,
 901 E Willetta St
 Phoenix AZ 85006
+Email: abcd@gmail.com
 
 ## Education
 
